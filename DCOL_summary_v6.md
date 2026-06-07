@@ -28,9 +28,11 @@ AutoLISP
 ## קבצים
 | קובץ | מיקום | תפקיד |
 |------|--------|--------|
-| `DCOL.lsp` | `C:\Users\Owner\Desktop\claude\Acad\files\` | כל קוד התוסף |
-| `acaddoc.lsp` | תיקיית Support של ZCAD | טוען DCOL.lsp אוטומטית |
-| `dcol_icon.bmp` | `C:\Users\Owner\Desktop\claude\Acad\files\` | אייקון לכפתור (32×32) |
+| `DCOL.lsp` | `C:\Users\Owner\Desktop\claude\Acad\dcol\` | כל קוד התוסף |
+| `acaddoc.lsp` | `C:\Users\Owner\Desktop\claude\Acad\dcol\` | טוען DCOL.lsp אוטומטית |
+| `dcol_icon.bmp` | `C:\Users\Owner\Desktop\claude\Acad\dcol\` | אייקון לכפתור (32×32) |
+| `DCOL_summary_v6.md` | `C:\Users\Owner\Desktop\claude\Acad\dcol\` | סיכום הפרויקט |
+| `DCOL_nested_shape_summary_v2.md` | `C:\Users\Owner\Desktop\claude\Acad\dcol\` | סיכום פיצ'ר Geometry |
 
 טעינה אוטומטית: מוגדרת דרך
 Startup Suite
